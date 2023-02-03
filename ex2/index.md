@@ -25,7 +25,7 @@ ans.
 
   <!-- here it will not block the code because it is async in nature ,it will be executed once all the sync part is completed -->
   ````
-
+  ````js
 4.what is buffer ?
 ans. 
   it is class which give a instance to store the raw data which corresponds to raw memory allocation outside the v8 heap,it stores the in hexadecimal formate
